@@ -33,6 +33,15 @@ nav a {
     text-decoration: none;
 }
 
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
